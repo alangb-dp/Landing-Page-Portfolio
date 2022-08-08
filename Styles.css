@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+header{
+    background-color: rgb(244, 224, 182);
+    width: 100%;
+    clear: both;
+    content: '';
+    display: table;
+
+}
+
+img{
+    float: left;
+}
+
+.menu{
+    width: 1400px;
+    margin: 0 auto;
+
+}
+
+nav{
+    float: right;
+
+}
+
+nav ul li{
+    list-style: none;
+    margin: 75px;
+    padding: 25px 0;
+    float: left;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+} 
